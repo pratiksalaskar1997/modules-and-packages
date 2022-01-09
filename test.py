@@ -1,4 +1,4 @@
-'''# WAP to add the values
+# WAP to add the values
 x = 'python'
 
 def add(a, b):
@@ -98,7 +98,7 @@ for i in d:
 print(max(l))
 if max(l) == len(i):
     print(i)
-'''
+
 
 
 
